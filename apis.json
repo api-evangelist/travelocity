@@ -1,0 +1,76 @@
+{
+    "name": "Travelocity",
+    "description": "Wander Wisely with the Price Match Guarantee, Free Changes & Cancellations, 24\/7 Personal Assistance only with Travelocity's Customer First Guarantee. Book & Save on Packages, Hotels, Flights, Cars, Cruises & more Today!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1183-travelocity.jpg",
+    "tags": [
+        "airlines",
+        "bookings",
+        "customers",
+        "flights",
+        "have api",
+        "hotels",
+        "marketplaces",
+        "rental cars",
+        "trip planning",
+        "vacations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/travelocity\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Travelocity",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1183-travelocity.jpg",
+            "humanURL": "http:\/\/connect.travelocity.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/travelocity-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/windowseat.travelocity.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/windowseatblog.com\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/travelocity"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/preview-travel"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@travelocity.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/travelocity"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/travelocity"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/RoamingGnome"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/connect.travelocity.com\/"
+        }
+    ]
+}
